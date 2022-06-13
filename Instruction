@@ -1,0 +1,9 @@
+First open command prompt on Windwos 
+then type this line of code in Command prompt
+
+
+netsh wlan show profile ' your WIFI name' key=clear 
+
+
+the password will be revealed Security settings section 
+Key content : Password 
